@@ -1,6 +1,7 @@
-## Welcome to GirlsPic[k]Up website. 
+# Welcome to GirlsPickUp website.
 
-These content all mirror form cached page server.
+## Disclaimer
+These contents all automated mirror from cached page server.
 
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/CaptainVincent" data-style="mega" data-count-href="/CaptainVincent/followers" data-count-api="/users/CaptainVincent#followers" data-count-aria-label="# followers on GitHub" aria-label="Follow @CaptainVincent on GitHub">Follow @CaptainVincent</a>
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>
